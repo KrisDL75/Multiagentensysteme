@@ -1,0 +1,13 @@
+Decision mode,Scenario,A-B toll,Slide reference (min),Simulated travel time (min),Difference from reference (min),Average toll,Average decision cost
+Deterministic heuristic,Original network,0.0,65.0,65.0,0.0,0.0,65.0
+Deterministic heuristic,Extended network (free A-B link),0.0,82.0,82.0,0.0,0.0,82.0
+Deterministic heuristic,Extended network (A-B toll 20),20.0,69.8676,69.8676,0.0,11.48,81.3476
+Deterministic heuristic,Extended network (A-B toll 30),30.0,66.1078,66.1275,0.0197,9.72,75.8475
+Deterministic heuristic,Extended network (A-B toll 40),40.0,64.8948,64.8876,-0.0072,2.96,67.8476
+Deterministic heuristic,Extended network (A-B toll 50),50.0,65.0003,65.0,-0.0003,0.0,65.0
+LLM checked,Original network,0.0,65.0,65.0,0.0,0.0,65.0
+LLM checked,Extended network (free A-B link),0.0,82.0,82.0,0.0,0.0,82.0
+LLM checked,Extended network (A-B toll 40),40.0,64.8948,64.8876,-0.0072,2.96,67.8476
+LLM raw,Original network,0.0,65.0,78.0573,13.0573,0.0,78.0573
+LLM raw,Extended network (free A-B link),0.0,82.0,85.0,3.0,0.0,85.0
+LLM raw,Extended network (A-B toll 40),40.0,64.8948,79.792,14.8972,0.0,79.792

@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+__MACOSX/
+*.pdf
+
+# Earlier model-specific experiments are outside this repository's scope.
+/7b_raw_checked/
+/14b_raw_checked/
+/32b/
+/Code/braess_assignment_ollama_v3_32b.py
+/Code/braess_postprocess_v3.py
+/results_langroid/
+/results_langroid_100/
+/results_langroid_7b_checked/
+/results_langroid_7b_raw/
+/results_langroid_llm_smoke/
+/results_langroid_tolls_llm_smoke/
+/report_outputs/Braess_Langroid_Report.html

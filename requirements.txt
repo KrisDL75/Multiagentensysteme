@@ -1,0 +1,4 @@
+langroid>=0.67.7
+matplotlib>=3.8
+pandas>=2.0
+jupyter>=1.0

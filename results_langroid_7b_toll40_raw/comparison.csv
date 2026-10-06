@@ -1,0 +1,4 @@
+scenario;toll_ab;reference_average_time;simulated_average_time;average_toll;average_decision_cost;difference;route_distribution;edge_loads;stats
+original;0.0;65.0;78.0573;0.0000;78.0573;13.0573;"{""Start -> A -> Ziel"": 452, ""Start -> B -> Ziel"": 48}";"{""S_A"": 3616.0, ""A_Z"": 3616.0, ""S_B"": 384.0, ""B_Z"": 384.0}";"{""llm_calls"": 500, ""accepted_non_minimal_choices"": 448}"
+extended;0.0;82.0;85.0000;0.0000;85.0000;3.0000;"{""Start -> A -> Ziel"": 500}";"{""S_A"": 4000.0, ""A_Z"": 4000.0, ""S_B"": 0.0, ""B_Z"": 0.0, ""A_B"": 0.0}";"{""llm_calls"": 1000, ""accepted_non_minimal_choices"": 500}"
+extended_toll_40;40.0;64.8948;79.7920;0.0000;79.7920;14.8972;"{""Start -> A -> Ziel"": 465, ""Start -> B -> Ziel"": 35}";"{""S_A"": 3720.0, ""A_Z"": 3720.0, ""S_B"": 280.0, ""B_Z"": 280.0, ""A_B"": 0.0}";"{""llm_calls"": 965, ""accepted_non_minimal_choices"": 893}"
